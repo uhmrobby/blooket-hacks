@@ -25,8 +25,8 @@
                 tat: player + ":swap:" + amount
             }
         })
-        alert('Set gold for player:' + player + ' to ' + amount);
-    };
+        alert('Set gold for player:' + player + ' robby ' + amount);
+   1000000000 };
 })();
 
 function footer() {
